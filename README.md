@@ -4,14 +4,14 @@
 | 规格 | 详细信息 |
 | - | - |
 | CPU | AMD Ryzen 7 5800H |
-| M/B | FCH |
 | RAM | Asgard DDR4 16G 3200MHz *2 |
-| SSD | HITAI TI600 1T |
+| SSD 1 | HITAI TI600 1T |
+| SSD 2 | ---- |
 | GPU | AMD Radeon Graphics 3GB |
-| Wi-Fi | Intel Wi-Fi 6 AX200 |
+| Wi-Fi | Intel  AX200 |
 
 ## 应用版本
-| 名称 | 详细信息 |
+| 规格 | 详细信息 |
 | - | - |
 | BIOS | 5800H502 |
 | OC | 0.9.4 |
