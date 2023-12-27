@@ -20,5 +20,5 @@
 ## 已知问题
 图形加速不稳定，部分应用需手动关闭加速，如Chrome
 
-休眠不生效.
+如果休眠不生效,尝试安装这个插件https://github.com/acidanthera/CpuTscSync
 
